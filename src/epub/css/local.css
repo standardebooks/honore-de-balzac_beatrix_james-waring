@@ -43,16 +43,20 @@ footer{
 
 /* custom */
 [epub|type~="se:letter.dateline"]{
-        font-style: italic;
-        margin-top: 1em;
-        text-align: right;
+	font-style: italic;
+	margin-top: 1em;
+	text-align: right;
 }
 
-[epub|type~="z3998:recipient"] {
-        font-style: italic;
-        margin-bottom: 1em;
-        text-align: center;
-        text-indent: 0;
+[epub|type~="se:letter.dateline"] b{
+	font-style: normal;
+}
+
+[epub|type~="z3998:recipient"]{
+	font-style: italic;
+	margin-bottom: 1em;
+	text-align: center;
+	text-indent: 0;
 }
 
 #part-3 blockquote:nth-of-type(-n+3) header p:first-child{
