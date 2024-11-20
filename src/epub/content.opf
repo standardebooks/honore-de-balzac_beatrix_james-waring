@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/honore-de-balzac/beatrix/james-waring</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-11-20T23:02:22Z</dc:date>
+		<meta property="dcterms:modified">2024-11-20T23:02:22Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -42,15 +42,15 @@
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta id="collection-2" property="belongs-to-collection">The Human Comedy: Scenes from Private Life</meta>
 		<meta property="collection-type" refines="#collection-2">series</meta>
-		<dc:description id="description">A young man falls for an older woman who introduces him to a friend in order to distract him.</dc:description>
+		<dc:description id="description">A young man falls for an older woman, who introduces him to a friend in order to distract him.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;The du Guénics are one of the oldest families in Brittany, and Calyste is the twenty-one year old only son of the patriarch. A long-time family friend is determined to marry off one of her nieces to Calyste, but he is in love with a woman of forty. Although Camille is flattered by the attentions of a man half her age, she recognizes the futility of his feelings. She decides she will introduce him to her friend Béatrix, a woman of the world at twenty-eight. This has far-reaching implications for all the parties involved, and &lt;a href="https://standardebooks.org/ebooks/honore-de-balzac"&gt;Balzac’s&lt;/a&gt; vivid characterizations provide the compelling backdrop to the story of Calyste’s introduction to love.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;Béatrix&lt;/i&gt; as originally written and published contained only the first two parts of the present novel; Balzac did not add the third until several years later.&lt;/p&gt;
+			&lt;p&gt;The du Guénics are one of the oldest families in Brittany, and Calyste is the twenty-one year old only son of the patriarch. A long-time family friend is determined to marry off one of her nieces to Calyste, but he’s in love with a woman of forty. Although Camille is flattered by the attentions of a man half her age, she recognizes the futility of his feelings. She decides that she’ll introduce him to her friend Béatrix, a twenty-eight year old woman of the world, with far-reaching implications for everyone involved.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/honore-de-balzac"&gt;Balzac’s&lt;/a&gt; vivid characterizations provide the compelling backdrop to the story of Calyste’s introduction to love. &lt;i&gt;Béatrix&lt;/i&gt;, as originally written and published, contained only the first two parts of the present novel; Balzac didn’t add the third until several years later.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://archive.org/details/worksofhonorde13balzuoft</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">120341</meta>
+		<meta property="se:reading-ease.flesch">66.88</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Béatrix</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/honore-de-balzac_beatrix_james-waring</meta>
 		<dc:creator id="author">Honoré de Balzac</dc:creator>
@@ -78,6 +78,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
