@@ -59,6 +59,10 @@ footer{
 	text-indent: 0;
 }
 
+#dedication header{
+	font-style: italic;
+}
+
 #part-3 blockquote:nth-of-type(-n+3) header p:first-child{
 	text-align: center;
 }
