@@ -42,9 +42,10 @@
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta id="collection-2" property="belongs-to-collection">The Human Comedy: Scenes from Private Life</meta>
 		<meta property="collection-type" refines="#collection-2">series</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A young man falls for an older woman who introduces him to a friend in order to distract him.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;The du Guénics are one of the oldest families in Brittany, and Calyste is the twenty-one year old only son of the patriarch. A long-time family friend is determined to marry off one of her nieces to Calyste, but he is in love with a woman of forty. Although Camille is flattered by the attentions of a man half her age, she recognizes the futility of his feelings. She decides she will introduce him to her friend Béatrix, a woman of the world at twenty-eight. This has far-reaching implications for all the parties involved, and &lt;a href="https://standardebooks.org/ebooks/honore-de-balzac"&gt;Balzac’s&lt;/a&gt; vivid characterizations provide the compelling backdrop to the story of Calyste’s introduction to love.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Béatrix&lt;/i&gt; as originally written and published contained only the first two parts of the present novel; Balzac did not add the third until several years later.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://archive.org/details/worksofhonorde13balzuoft</dc:source>
